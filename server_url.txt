@@ -1,1 +1,1 @@
-server_url.txt
+https://c9a877beb7b7.ngrok-free.app
